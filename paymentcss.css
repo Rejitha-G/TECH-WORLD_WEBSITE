@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+    background-color: black;
+    overflow-y: hidden;
+}
+.container{
+    width: 500px;
+    height: 600px;
+    margin-left: 450px;
+    margin-top: 80px;
+}
+.container h1{
+ padding-left: 100px;
+ color: bisque;
+}
+form{
+    padding: 20px;
+}
+label{
+    color: beige;
+    font-size: 20px;
+    margin-bottom: 6px;
+}
+input{
+    width: 250px;
+    height: 20px;
+    margin-bottom: 6px;
+}
+button{
+    margin-top: 10px;
+    padding:8px;
+    background-color: rgb(0, 247, 255);
+}
